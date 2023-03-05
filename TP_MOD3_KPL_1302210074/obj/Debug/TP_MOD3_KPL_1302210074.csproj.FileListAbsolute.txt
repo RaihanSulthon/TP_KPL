@@ -1,0 +1,11 @@
+C:\Users\Raihan Sulthon Y\OneDrive - Telkom University\Desktop\TP_MOD3_KPL_1302210074\TP_MOD3_KPL_1302210074\bin\Debug\TP_MOD3_KPL_1302210074.exe.config
+C:\Users\Raihan Sulthon Y\OneDrive - Telkom University\Desktop\TP_MOD3_KPL_1302210074\TP_MOD3_KPL_1302210074\bin\Debug\TP_MOD3_KPL_1302210074.exe
+C:\Users\Raihan Sulthon Y\OneDrive - Telkom University\Desktop\TP_MOD3_KPL_1302210074\TP_MOD3_KPL_1302210074\bin\Debug\TP_MOD3_KPL_1302210074.pdb
+C:\Users\Raihan Sulthon Y\OneDrive - Telkom University\Desktop\TP_MOD3_KPL_1302210074\TP_MOD3_KPL_1302210074\obj\Debug\TP_MOD3_KPL_1302210074.csproj.AssemblyReference.cache
+C:\Users\Raihan Sulthon Y\OneDrive - Telkom University\Desktop\TP_MOD3_KPL_1302210074\TP_MOD3_KPL_1302210074\obj\Debug\TP_MOD3_KPL_1302210074.csproj.SuggestedBindingRedirects.cache
+C:\Users\Raihan Sulthon Y\OneDrive - Telkom University\Desktop\TP_MOD3_KPL_1302210074\TP_MOD3_KPL_1302210074\obj\Debug\TP_MOD3_KPL_1302210074.Form1.resources
+C:\Users\Raihan Sulthon Y\OneDrive - Telkom University\Desktop\TP_MOD3_KPL_1302210074\TP_MOD3_KPL_1302210074\obj\Debug\TP_MOD3_KPL_1302210074.Properties.Resources.resources
+C:\Users\Raihan Sulthon Y\OneDrive - Telkom University\Desktop\TP_MOD3_KPL_1302210074\TP_MOD3_KPL_1302210074\obj\Debug\TP_MOD3_KPL_1302210074.csproj.GenerateResource.cache
+C:\Users\Raihan Sulthon Y\OneDrive - Telkom University\Desktop\TP_MOD3_KPL_1302210074\TP_MOD3_KPL_1302210074\obj\Debug\TP_MOD3_KPL_1302210074.csproj.CoreCompileInputs.cache
+C:\Users\Raihan Sulthon Y\OneDrive - Telkom University\Desktop\TP_MOD3_KPL_1302210074\TP_MOD3_KPL_1302210074\obj\Debug\TP_MOD3_KPL_1302210074.exe
+C:\Users\Raihan Sulthon Y\OneDrive - Telkom University\Desktop\TP_MOD3_KPL_1302210074\TP_MOD3_KPL_1302210074\obj\Debug\TP_MOD3_KPL_1302210074.pdb
